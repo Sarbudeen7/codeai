@@ -1,4 +1,4 @@
-import { TicketPlus } from "lucide-react";
+import { ContrastIcon, TicketPlus } from "lucide-react";
 
 export const codeExamples = {
   "App.jsx": `import { useState } from "react";
@@ -88,6 +88,8 @@ export default function Navbar() {
   );
 }`,
 };
+
+ContrastIcon
 
 
 
